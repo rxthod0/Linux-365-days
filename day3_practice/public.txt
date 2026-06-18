@@ -1,0 +1,1 @@
+public.txt — permission 644, owner can edit, others can read

@@ -1,0 +1,1 @@
+private.txt — permission 600, only owner can read/write

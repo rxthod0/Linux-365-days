@@ -1,0 +1,2 @@
+-rw-r--r-- 1 rxthd0 rxthd0 0 Jun 18 17:30 public.txt
+-rw------- 1 rxthd0 rxthd0 0 Jun 18 17:30 private.txt

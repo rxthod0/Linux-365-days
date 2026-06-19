@@ -1,0 +1,6 @@
+error: file not found
+success: operation completed
+error: invalid input
+warning: low memory
+error: timeout occurred
+
